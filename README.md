@@ -7,7 +7,11 @@ Addtion , subtraction , and Sorting. Using Spring based annotation i display the
 typing localhost:8080/result.Student should enter the name and BroncoID in TestWithGradeAnnotation.java. 
 
 Technologies used :
-Spring 1.4.2
-JDK 1.8
-Maven 3
-Eclips-jee-mars-2-win32-x86_64
+
+Spring 1.4.2,
+
+JDK 1.8,
+
+Maven 3,
+
+Eclips-jee-mars-2-win32-x86_64.
